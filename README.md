@@ -31,4 +31,5 @@ Using react-youtube to watch video: https://www.npmjs.com/package/react-youtube
 Using react-modal to popup video: https://www.npmjs.com/package/react-modal
     npm install --save react-modal
  Deploy project to Vercel: https://vercel.com/khanhnguyens-projects-3e2e9cce
+ Domain: movie-web-trailer-beta.vercel.app
 
